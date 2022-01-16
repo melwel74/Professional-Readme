@@ -1,12 +1,12 @@
-# Readme
-  melwel74
-  Professional Readme
+# Professional ReadMe
+  Melvin Welton
+  A command line application that dynamically generates a professional Readme.md file from a user's input using the Inquirer Package
 
-  install
+  Inquirer package
 
-  purpose
+  To quickly create a readme file
 
-  contribution
+  anyone can contribute
 
-  tests
+  I tested 
 
