@@ -1,12 +1,12 @@
-# Professional ReadMe
-  Melvin Welton
-  A command line application that dynamically generates a professional Readme.md file from a user's input using the Inquirer Package
+# Professional Readme
+  melwel74
+  To quickly make a professional readme file
 
-  Inquirer package
+  using node js
 
-  To quickly create a readme file
+  to quickly make a readme
 
   anyone can contribute
 
-  I tested 
+  node
 
