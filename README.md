@@ -5,3 +5,6 @@
 # Technology Used
 
 #### NodeJS
+# License
+
+#### https://github.com/melwel74/Professional-Readme#:~:text=License-,MIT%20License,-Stars
