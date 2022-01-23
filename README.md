@@ -11,5 +11,5 @@
 
 # Badge
 
-![ alt text](https://img.shields.io/badge/Nodejs-text-color?style=&logo=)
+![ alt text](https://img.shields.io/badge/Nodejs-MIT-color?style=&logo=)
 
